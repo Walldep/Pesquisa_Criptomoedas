@@ -16,10 +16,10 @@ O material foi construído com apoio de ferramentas de IA, especialmente o Noteb
 
 As seguintes fontes foram selecionadas para embasar o estudo:
 
-1. [INFORME CRIPTO - TUDO SOBRE CRIPTOMOEDAS] – [](https://www.jb.com.br/economia/informe-cripto--tudo-sobre-criptomoedas/2026/02/1058698-brasil-avanca-como-lider-em-criptoativos-regulamentados.html)
-2. [BRASIL MOVIMENTA R$ 1,7 TRILHÃO EM CRIPTOS NO ANO] – [](https://portaldobitcoin.uol.com.br/brasil-movimenta-r-17-trilhao-em-criptomoedas-no-ano-alta-de-109/)
-3. [CRYPTO EXCHANGE PLATFORMS] – [](https://www.bitget.com/pt/academy/crypto-exchange-platforms-guia-completo-para-escolher-as-melhores-corretoras-no-brasil-em-2026)
-4. (MERCADO DE TOKENS RWA NO BRASIL) [](https://br.tradingview.com/news/cointelegraph:de2f22d2abc81:0/)
+1. [INFORME CRIPTO - TUDO SOBRE CRIPTOMOEDAS] – (https://www.jb.com.br/economia/informe-cripto--tudo-sobre-criptomoedas/2026/02/1058698-brasil-avanca-como-lider-em-criptoativos-regulamentados.html)
+2. [BRASIL MOVIMENTA R$ 1,7 TRILHÃO EM CRIPTOS NO ANO] – (https://portaldobitcoin.uol.com.br/brasil-movimenta-r-17-trilhao-em-criptomoedas-no-ano-alta-de-109/)
+3. [CRYPTO EXCHANGE PLATFORMS] – (https://www.bitget.com/pt/academy/crypto-exchange-platforms-guia-completo-para-escolher-as-melhores-corretoras-no-brasil-em-2026)
+4. (MERCADO DE TOKENS RWA NO BRASIL) (https://br.tradingview.com/news/cointelegraph:de2f22d2abc81:0/)
 
 ---
 
@@ -44,7 +44,7 @@ As seguintes fontes foram selecionadas para embasar o estudo:
 
 📚 Link do projeto no NotebookLM
 
-[](https://notebooklm.google.com/notebook/2c7170f7-dd07-4d4d-9f96-e6a85d71ffba)
+(https://notebooklm.google.com/notebook/2c7170f7-dd07-4d4d-9f96-e6a85d71ffba)
 
 
 ## 🚀 Considerações Finais
